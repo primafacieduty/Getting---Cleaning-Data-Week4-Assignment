@@ -22,8 +22,8 @@ Below is a description of the tasks the R-script completes and the output it gen
 * 4. Labels the data set with descriptive variable names by making the descriptive names the column names
 * 5. From the dataset created in step 4, a second dataset is produced that contains the average of each variable by activity and subject
 
-The R-script creates a complete data set ("total") that combines the training and testing datasets and extracts the mean and standard deviation measurements for each variable. The script also creates a second data set ("total_mean") that shows the mean of each variable by subject and activity type.
+The R-script creates a complete data set ("complete_tidydata.txt") that combines the training and testing datasets and extracts the mean and standard deviation measurements for each variable. The script also creates a second data set ("means_tidydata.txt") that shows the mean of each variable by subject and activity type.
 
 ### Submitted Dataset
-As the instructions for the assignment state the file "total_mean.txt" is a dataset that contains the average of variable by subject and activity
+As the instructions for the assignment state the file "means_tidydata.txt" is a dataset that contains the average of variable by subject and activity
 
