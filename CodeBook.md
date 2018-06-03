@@ -1,9 +1,7 @@
 # Dataset Description
 
-### Variables in Dataset "total_mean"
-* The 'total_mean' dataset contains 180 rows and 68 columns. Each row contains the mean or standard deviation value for each variable for 
-an individual subject during a specific activity. Variables that contain 'mean()' are mean values, while variables that contain 'std()'
-are standard deviation values.
+### Variables in Dataset "means_tidydata.txt"
+* The 'means_tidydata.txt' dataset contains 180 rows and 68 columns. Each row contains the mean or standard deviation value for each variable for an individual subject during a specific activity. Variables that contain 'mean()' are mean values, while variables that contain 'std()' are standard deviation values.
 
 * Below is a decription of the variables in the dataset.
 
